@@ -1,8 +1,10 @@
 # Diagramas de clases con UML
 
-## Ejemplo de diagrama de clase
+## Ejemplos de diagramas de clases
 
 ![Alt](diagramas/diag01.drawio.svg)
+
+![Alt](diagramas/diag_BankAccount.drawio.svg)
 
 ## Asociación
 
