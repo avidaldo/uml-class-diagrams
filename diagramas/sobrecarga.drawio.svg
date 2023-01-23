@@ -1,0 +1,75 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="312px" height="162px" viewBox="-0.5 -0.5 312 162" content="&lt;mxfile&gt;&lt;diagram id=&quot;xv2PSBEQPAkLEMzriEUM&quot; name=&quot;Page-1&quot;&gt;1VbLbqMwFP0a1OkiEtjTZGbJK82iM5XajLocucGAJYMZxyTQRb+9NrYDhFSKpoumG4zPffgc2/K9DgyL5pajKv/FEkwd4CaNAyMHAHjjyq8CWgN4PzWQcZJoyOuBR/KCDWjispokeDtyFIxRQaoxuGFliTdihCHO2X7sljI6XrVCGZ4AjxtEp+gTSUSu0R9g0eMrTLLcruzNjb4CWWejZJujhO0HEIwdGHLGhP4rmhBTtXd2X3Tc8h3rgRjHpTgnAOiAHaK10eaAOZWhQaXYidZInv+rFaWgQDwjpQN9aXWrRn4l2AlT+EywStu+D2wCN2KGKMlM3EZyw7zPKf8yNUZkW1HUBownnZlq47KyDhbLueJmb4VN400zfkgLxakYiDnOPbPJ68FqqJD6g/J5q4YoXvp/7tZ/w5X/4Ifr+MHIzxE/du14uVdyuFI0FgHHKLkvaessosFO1MfCTu3O54q9i3/frlc6FZF38KRQ7+bDKi/iDkx2Re6TO7rG364v4fgmPF/V4zviqW9lqE/tWufaMflMfB36Z7KeAM/8hLBLFnv+CZ2Udiky/uuWgRFXsMNcEFmYfV1eoq4ABabYRJpjwKRXSrsymxJZ/mCQslKYtsIDZr5EBaGqIVlhusMqq3pmREGV02FttSBu3q223qGGy94HswIL3koXG7AwZd/0PR40833fRUDb5OTDDmJuQGQ6l+yQuy/u8sfUdzvt+4jONmjGYPwG&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="310" height="160" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 312px; height: 160px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 310px; height: 160px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    DisplayBorder
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    -
+                                    <u>
+                                        DEFAULT_CHARACTER: char = '=' {readOnly}
+                                    </u>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    -
+                                    <u>
+                                        DEFAULT_LENGTH: int = 15 {readOnly}
+                                    </u>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <u>
+                                        - DisplayBorder()
+                                    </u>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <u>
+                                        ~ displayBorder(char, int): void
+                                    </u>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <u>
+                                        ~ displayBorder(char): void
+                                    </u>
+                                    <u>
+                                        <br/>
+                                    </u>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <u>
+                                        ~ displayBorder(int): void
+                                    </u>
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <u>
+                                        ~ displayBorder(): void
+                                    </u>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    DisplayBorder...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
