@@ -17,6 +17,8 @@
 - Clientes a mayores se necesita conocer teléfono de contacto.
 - Se necesita mostrar en la aplicación datos de empleados y clientes.
 
+![Alt](diagramas/Ej01_empleados.drawio.svg)
+
 
 ### Ej02. Biblioteca
 
@@ -30,4 +32,4 @@ Añadir los métodos necesarios para realizar el préstamo y devolución de libr
 
 
 ## Otros
-[https://docs.google.com/document/d/1pfv0W79IHCDnE_FVkoYkwZz4NSU_6orxhsdOEpPwayU/edit?usp=sharing](Otras soluciones alternativas)
+[Otras soluciones alternativas](https://docs.google.com/document/d/1pfv0W79IHCDnE_FVkoYkwZz4NSU_6orxhsdOEpPwayU/edit?usp=sharing)
